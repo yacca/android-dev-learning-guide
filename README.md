@@ -1,3 +1,3 @@
-# My Awesome Book
+# Android Development Learning Guide
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+[Read the guide online](https://yacca.gitbooks.io/android-dev-learning-guide/content/)
