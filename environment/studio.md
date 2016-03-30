@@ -21,5 +21,6 @@ Android Studio is current official Android IDE. Normally we utilise it to constr
 
 ### References
 - [Android Tools Project Site](http://tools.android.com/)
-- [Android Studio articles in Android Developers Blog](http://android-developers.blogspot.com/search/label/Android%20Studio)
+- [Recent Changes of Android Studio](http://tools.android.com/recent)
+- [Articles of Android Studio on Android Developers Blog](http://android-developers.blogspot.com/search/label/Android%20Studio)
 

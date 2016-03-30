@@ -7,9 +7,13 @@
   - [gradle](environment/gradle.md)
 * [Android Fundamentals](fundamentals.md)
 * [Learn From Samples](samples.md)
-* [First Application](first.md)
-* [Proccess of Product Development](product.md)
+* [Build an Application](build_app.md)
+* [Processes and Tools of Product Development](product.md)
 * [Material Design](material_design.md)
-* [Understand the Platform](platform.md)
-* [Tools](tools.md)
+* [Design Patterns](design_patterns.md)
+* [Understand the Framework](framework.md)
+* [Useful Development Tools](tools.md)
+* [Android Development Libraries](libraries.md)
 * [Testing](testing.md)
+
+

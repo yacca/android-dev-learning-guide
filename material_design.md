@@ -12,7 +12,7 @@
 - [Udacity course - Material Design for Android Developers](https://www.udacity.com/course/material-design-for-android-developers--ud862)
 - [Material Design on Android Checklist
 ](http://android-developers.blogspot.com/2014/10/material-design-on-android-checklist.html)
-- [Material Design articles in Android Developers Blog](http://android-developers.blogspot.com/search/label/Material%20Design)
+- [Articles of Material Design on Android Developers Blog](http://android-developers.blogspot.com/search/label/Material%20Design)
 - [Material Design Specs](https://www.google.com/design/spec/material-design/introduction.html)
 - [Device metrics](https://design.google.com/devices/)
 

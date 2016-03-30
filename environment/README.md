@@ -1,7 +1,9 @@
-# Core tools for Android development:
+# Development Environment
 
+Core tools for Android development:
 - Android Studio
-- gradle
 - adb
 - emulator
+- gradle
+
 
